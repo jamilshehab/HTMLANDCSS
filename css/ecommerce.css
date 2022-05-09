@@ -1,0 +1,42 @@
+#navigation-menu a:hover{
+    background: #fff;
+    color: #2f3640;
+    transform: scale(1.1);
+       }
+       #navigation-menu i{
+   margin-right: 8px;
+   font-size: 16px;
+       }
+       .home{
+   color: #ff6b6b;
+       }
+       .about{
+        color: #d80113;
+       }
+       
+       .products{
+         color: rgb(83, 83, 151);
+       }
+       .services{
+         color: rgb(45, 199, 135);
+       }
+       .contact{
+         color: rgb(27, 78, 99);
+       }
+       #login{
+         color: white;
+       }
+       #register{
+         color:white; 
+         }
+        body{
+          margin: 0;
+          padding:0;
+          font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+          background:url('../images/onlineshopping.png');
+          background-size:cover;
+        }
+        div h2{
+          text-align: center;
+        }
+        
